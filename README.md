@@ -11,6 +11,6 @@ Website pemesanan camilan manis & gurih MAVÉRA (SMAN 17 Jakarta).
 - Pemesanan Langsung via WhatsApp
 
 ## Struktur File
-- index.html / Mavera.html: Struktur halaman web utama
+- index.html: Struktur halaman web utama
 - style.css: Berkas stylesheet CSS
 - script.js: Berkas logika JavaScript & data menu
